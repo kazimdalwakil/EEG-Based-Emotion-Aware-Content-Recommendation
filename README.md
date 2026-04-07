@@ -40,6 +40,7 @@ The system combines **affective computing**, **deep learning**, and **recommenda
   * EEG signals
   * Eye movement data
 * Used for emotion classification (e.g., positive, negative, neutral)
+* [SEED Dataset](https://bcmi.sjtu.edu.cn/home/seed/seed-v.html)
 
 ---
 
